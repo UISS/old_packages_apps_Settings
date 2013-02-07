@@ -1093,6 +1093,32 @@
         <item>600000</item>
         <item>1800000</item>
     </string-array>
+    
+    <string-array name="entries_pie_gap">
+	<item>@string/pie_gap_closed</item>
+        <item>@string/pie_gap_small</item>
+        <item>@string/pie_gap_big</item>
+        <item>@string/pie_gap_huge</item>
+    </string-array>
+    
+    <string-array name="values_pie_gap" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    
+    <string-array name="entries_pie_trigger">
+        <item>@string/pie_trigger_small</item>
+        <item>@string/pie_trigger_big</item>
+        <item>@string/pie_trigger_huge</item>
+    </string-array>
+    <string-array name="values_pie_trigger" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>	
 
     <string-array name="lockscreen_icon_picker_labels" translatable="false">
         <item>@string/icon_picker_alarm</item>
